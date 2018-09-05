@@ -5,7 +5,7 @@
 * PubSubClient (tested with version 2.6)
 
 ## Installation
-Simply copy mqtt_handler.h and mqtt_handler.cpp into your project and put `#include "mqtt_handler.h" in your sketch
+Simply copy mqtt_handler.h and mqtt_handler.cpp into your project and put `#include "mqtt_handler.h"` in your sketch
 
 ## Example
 ```cpp
